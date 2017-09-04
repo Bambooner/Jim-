@@ -1,6 +1,7 @@
-<?php
+﻿<?php
 
 phpinfo();
+echo 'fffwjw';
 
 //latitude 纬度
 //longitude 经度
